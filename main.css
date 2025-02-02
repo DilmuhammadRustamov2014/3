@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #d97706, #ea580c);
+    font-family: Arial, sans-serif;
+}
+.box {
+    display: flex;
+    background: #f59e0b;
+    padding: 20px;
+    border-radius: 10px;
+    width: 850px;
+    height: 300px;
+}
+.timers {
+border-radius: 9px;
+box-shadow: 8px 9px 22px 1px rgba(0, 0, 0, 0.6);
+    background: rgba(5, 5, 5, 0.9);
+    background: #000;
+    color: #fff;
+    padding: 20px;
+    margin: 5px;
+    text-align: center;
+    width: 221px;
+    height: 235px;
+    font-size: 70px;
+}
